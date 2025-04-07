@@ -1,6 +1,7 @@
 # Line Todo
 
 一个基于 Next.js 和 Electron 的时间轴待办事项管理应用。
+![image-20250407213820677](https://s2.loli.net/2025/04/07/O5nRYCcI9uGeSdk.png)
 
 ## 功能特点
 
